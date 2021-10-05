@@ -4,4 +4,4 @@
 
 ```
 
-<a href="https://yashsaxena75.github.io/JavaWorld/day1">Day-1</a>
+<a href="/JavaWorld/day1">Day-1</a>
