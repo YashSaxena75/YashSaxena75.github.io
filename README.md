@@ -1,6 +1,4 @@
 
-markdown: kramdown
-
 <b><a href="/JavaWorld/">JavaWorld</a></b>
 
 
