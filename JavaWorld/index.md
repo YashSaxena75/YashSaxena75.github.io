@@ -4,6 +4,6 @@
 
 ```
 
-<a href="JavaWorld/day-1">Day-1</a>
+<a href="/day-1">Day-1</a>
 hello
 chat
