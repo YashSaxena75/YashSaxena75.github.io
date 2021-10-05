@@ -18,6 +18,5 @@ for vulnhub and tryhackme as my projects
   if you want to contribute anything related to programming
 
 ```
-```
-<a href="/JavaWorld/">JavaWorld</a>
-```
+
+<b><a href="/JavaWorld/">JavaWorld</a></b>
